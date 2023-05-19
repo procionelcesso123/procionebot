@@ -1,7 +1,7 @@
 import axios from 'axios'
 let split = '|'
 let handler = async (m, { conn, args: [effect], text: txt, usedPrefix, command, name }) => {
-if (!effect) throw '🛡️⃟🏴‍☠ ════ •⊰❂⊱• ════ 🛡️⃟🏴‍☠\n\n𝐔𝐒𝐎 𝐃𝐄𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎\n.logo (effetto) (testo)\n.logo (effetto) (testo|testo)\n\n┌──⭓ 𝐋𝐈𝐒𝐓𝐀 𝐄𝐅𝐅𝐄𝐓𝐓𝐈\n│⭔ .logo ' + effects.map(v => v.title).join('\n│⭔ .logo ') + '\n└───────⭓\n\n┌──⭓ 𝐀𝐋𝐓𝐑𝐈\n│⭔ .loli (txt)\n│⭔ .neon (txt)\n│⭔ .devil (txt)\n│⭔ .wolf (txt)\n│⭔ .pornhub (txt) + (txt)\n└───────⭓'
+if (!effect) throw '🦝 ════ •⊰❂⊱• ════ 🦝\n\n𝐔𝐒𝐎 𝐃𝐄𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎\n.logo (effetto) (testo)\n.logo (effetto) (testo|testo)\n\n┌──⭓ 𝐋𝐈𝐒𝐓𝐀 𝐄𝐅𝐅𝐄𝐓𝐓𝐈\n│⭔ .logo ' + effects.map(v => v.title).join('\n│⭔ .logo ') + '\n└───────⭓\n\n┌──⭓ 𝐀𝐋𝐓𝐑𝐈\n│⭔ .loli (txt)\n│⭔ .neon (txt)\n│⭔ .devil (txt)\n│⭔ .wolf (txt)\n│⭔ .pornhub (txt) + (txt)\n└───────⭓'
 effect = effect.toLowerCase()
 if (!effects.find(v => (new RegExp(v.title, 'gi')).test(effect))) return
 let text = txt.replace(new RegExp(effect, 'gi'), '').trimStart()
