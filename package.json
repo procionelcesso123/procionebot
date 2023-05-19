@@ -1,5 +1,5 @@
 {
-    "name": "Enemies-Bot-MD",
+    "name": "PROCIONE.BOT",
     "version": "2.0.0",
     "description": "r",
     "main": "index.js",
@@ -14,13 +14,13 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/unlimited787/Enemies-md-ofc",
+    "homepage": "https://github.com/procionelcesso123/procionebot",
     "author": {
-        "name": "unlimited787"
+        "name": "procionelcesso123"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/unlimited787/Enemies-md-ofc.git"
+        "url": "git+https://github.com/procionelcesso123/procionebot"
     },
     "bugs": {
         "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
