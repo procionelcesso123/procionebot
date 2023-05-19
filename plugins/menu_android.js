@@ -38,12 +38,12 @@ let text = `
 │⭔ ${usedPrefix}bonk
 └───────⭓
 
-┌──⭓ *MENU 'FABRI'*
-|- fabri funziona senza uso
+┌──⭓ *MENU 'PROCIONE'*
+|- PROCIONE funziona senza uso
 |  di prefisso.
 |  per attivarlo:
-|⭔ ON: sveglia fabri 
-|⭔ OFF: dormi fabri 
+|⭔ ON: sveglia procione 
+|⭔ OFF: dormi procione 
 └───────⭓
 
 ┌──⭓ *MENU 'RISPOSTA'*
