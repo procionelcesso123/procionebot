@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('MOONCLOUDS', {
+say('CM_ESOTO', {
 font: 'shade', 
 align: 'center',
 gradient: ['blue', 'white']})
@@ -21,7 +21,7 @@ say('ediz fab & dan', {
 font: 'tiny',
 align: 'center',
 gradient: ['red', 'blue']})
-say(`SUPERFABRI-BOT`, {
+say(`PROCIONE.BOT`, {
 font: 'slick',
 align: 'center',
 gradient: ['white', 'cyan']})
