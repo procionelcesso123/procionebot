@@ -12,7 +12,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = ['393791009633'] 
-global.prems = ['39xxxx', '39xxxx']
+global.prems = ['393791009633', '12678604096']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,12 +82,12 @@ global.maxwarn = '4' // máxima advertencias
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.wm = 'PROCIONE.BOT'
-global.wait = '*⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*🦝⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.dmoji = '🤭🦝'
+global.done = '✅🦝'
+global.error = '❌🦝' 
+global.xmoji = '🔥🦝' 
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
