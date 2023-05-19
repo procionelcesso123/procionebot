@@ -51,37 +51,37 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // MODIFICA IL NOME DEGLI Sticker WM
-global.packname = 'SUPERFABRIBOT-MD'
-global.author = 'SUPERFABRIBOT-MD'
+global.packname = '🦝'
+global.author = 'PROCIONE.BOT'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 //INSERISCI O MODIFICA I TUOI CONTATTI
 
-global.fgig = 'https://github.com/fabriziodee/superbot2023'
+global.fgig = 'https://github.com/procionelcesso123/procionebot'
  
 global.yt = ''
 
-global.fgpyp = 'https://www.tiktok.com/@3r1z10'
+global.fgpyp = ''
 
 global.faceb = ''
 
 global.vs = 'Mi0 2.1'
 
-global.lb = 'SUPERFABRIBOT-MD'
+global.lb = 'PROCIONE.BOT'
 global.lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
+global.dygp = 'https://chat.whatsapp.com/D3mfYnmnwhFEGyImmgQJse' //grupo del bot
 
-global.nna = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //UPDATE
+global.nna = 'https://chat.whatsapp.com/D3mfYnmnwhFEGyImmgQJse' //UPDATE
 
-global.fglog = 'https://telegra.ph/file/1861aab98389b13db8588.png' 
+global.fglog = 'https://telegra.ph/file/bc12386c7355151f41702.jpg' 
 
-global.multiplier = 69 
+global.multiplier = 69
 global.maxwarn = '4' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.wm = 'SUPERFABRIBOT-MD'
+global.wm = 'PROCIONE.BOT'
 global.wait = '*⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
