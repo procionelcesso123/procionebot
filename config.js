@@ -11,7 +11,7 @@ global.owner = [
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['39xxxx'] 
+global.mods = ['393791009633'] 
 global.prems = ['39xxxx', '39xxxx']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -70,9 +70,9 @@ global.vs = 'Mi0 2.1'
 global.lb = 'PROCIONE.BOT'
 global.lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/D3mfYnmnwhFEGyImmgQJse' //grupo del bot
+global.dygp = 'https://chat.whatsapp.com/LOoDJYHXP3h0fqOSjut2Lo' //grupo del bot
 
-global.nna = 'https://chat.whatsapp.com/D3mfYnmnwhFEGyImmgQJse' //UPDATE
+global.nna = 'https://chat.whatsapp.com/LOoDJYHXP3h0fqOSjut2Lo' //UPDATE
 
 global.fglog = 'https://telegra.ph/file/bc12386c7355151f41702.jpg' 
 
