@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77539&center=true&height=30&lines=%F0%9F%A6%9D%F0%9D%91%B7%F0%9D%91%B9%F0%9D%91%B6%F0%9D%91%AA%F0%9D%91%B0%F0%9D%91%B6%F0%9D%91%B5%F0%9D%91%AC%E2%87%9D%F0%9D%90%81%E1%8F%AB%F0%9D%90%93)](https://git.io/typing-svg)
-
 <h1 align="center">
 <p>
-<img src= "https://i.imgur.com/BqCg8Ao.png" alt="BOT" width="720">
+<img src= "https://telegra.ph/file/bc12386c7355151f41702.jpg" alt="BOT" width="720">
 </p>
 
 ### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
