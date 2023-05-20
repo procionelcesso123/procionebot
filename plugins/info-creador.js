@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-wa.me/393312171655
+wa.me/393791009633
 `.trim()   
 let buttonMessage= {
 'document': { url: `stocazzo.com` },
