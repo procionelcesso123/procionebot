@@ -4,27 +4,27 @@
 <img src= "https://telegra.ph/file/bc12386c7355151f41702.jpg" alt="BOT" width="720">
 </p>
 
-### `—◉ ⚙️ CONFIGURAZIONE ⚙️`
+### `—◉ ⚙️ CONFIGURAZIONE 🦝⇝𝐁Ꮻ𝐓 ⚙️`
 `USA IL BOTTONE PER ESEGUIRE IL FORK`
   
   <a href="https://github.com/procionelcesso123/procionebot/form"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
-- CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/form)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui][(https://github.com/procionelcesso123/procionebot/blob/master/config.js)]
+- CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/fork)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
   
-### `—◉ 💥 ATTIVA SU KOYEB 💥`
+### `—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 💥`
 
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//BotWhaIta&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
   
-### `—◉ 🌌 ATTIVA 𝑴☁️ SU REPLIT 🌌`
+### `—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 🌌`
 
-[![Attiva su Repl.it](https://repl.it/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/Fabri115/BotWhaIta)  
+[![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)  
 
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
 
-### `—◉ 👾 ATTIVA TERMUX 👾` 
+### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU TERMUX 👾` 
 
 Comandi termux di base, necessari per l'avvio del bot:
 
@@ -38,13 +38,13 @@ Conferma, segna la terza casella e conferma e continua >
 
 apt-get upgrade
 
-Dovrai digitare y e confermare ogni volta che lo chiedi.
+Dovrai digitare y e confermare ogni volta che lo chiede.
 
 -_3 COMANDO :
 
 apt-get update
 
-Dovrai digitare y e confermare ogni volta che lo chiedi.
+Dovrai digitare y e confermare ogni volta che lo chiede.
 
 -_4 Comando :
 
@@ -59,13 +59,13 @@ e conferma.
 ----_-
 
 
-### `—◉ ⇝ ATTIVA 𝑴☁️. COMANDO PER INSTALLARE LA CARTELLA DI 𝑴☁️BOT 🌌`
+### `—◉ ⇝ COMANDO PER INSTALLARE LA CARTELLA DI 🦝⇝𝐁Ꮻ𝐓 🌌`
 ```bash
-cd /sdcard && rm -rf BotWhaIta && git clone https://github.com/Fabri115/BotWhaIta.git && cd BotWhaIta && sh start.sh 
+cd /sdcard && rm -rf procionebot && git clone https://github.com/procionelcesso123/procionebot.git && cd procionebot && sh start.sh 
 ```
-COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME
+COPIALO TUTTO E INCOLLALO SU TERMUX ↑
 
-### `—◉ 👾 ATTIVA 𝑴☁️ IN TERMUX 👾` 
+### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX 👾` 
 - DIGITA QUESTI COMANDI:
 ```bash
 termux-setup-storage
@@ -96,11 +96,11 @@ pkg install yarn
 ```    
 
 ```bash
-git clone https://github.com/Fabri115/botwhaita.git
+git clone https://github.com/procionelcesso123/procionebot.git
 ```
   
 ```bash
-cd botwhaita
+cd procionebot
 ```  
 
 ```bash
@@ -119,33 +119,33 @@ npm update
 sh start.sh
 ```
 
-### `—◉ ✔️ AVVIA 𝑴☁️ IN TERMUX ✔️`
+### `—◉ ✔️ AVVIA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX ✔️`
 
 DIGITA QUESTI COMANDI:
 ```bash
 > cd 
 ```
 ```bash
-> cd BotWhaIta
+> cd procionebot
 ```
 ```bash
 > sh start.sh
 ```
   
-### `—◉ ✔️ For 24/7 Activation 𝑴☁️ TERMUX ✔️`
+### `—◉ ✔️ For 24/7 Activation 🦝⇝𝐁Ꮻ𝐓 TERMUX ✔️`
   
  ```bash
 > npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   ```
 
-### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 𝑴☁️ 👽`
+### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 👽`
 
 DIGITA QUESTI COMANDI:
 ```bash
 > cd 
 ```
 ```bash
-> cd BotWhaIta
+> cd procionebot
 ```
 ```bash
 > rm -rf MysticSession
@@ -162,10 +162,10 @@ DIGITA QUESTI COMANDI:
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fabri115/BotWhaIta
+git clone https://github.com/procionelcesso123/procionebot
 ```
 ```bash
-cd BotWhaIta
+cd procionebot
 ```
 ```bash
 npm install
@@ -182,35 +182,20 @@ npm update
 node .
 ```
 
----------
-### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 𝑴☁️ 👽`
 
-DIGITA QUESTI COMANDI:
-```bash
-> cd 
-```
-```bash
-> cd BotWhaIta
-```
-```bash
-> rm MysticSession
-```
-```bash
-> sh start.sh
-```
 ---------
-### `—◉ 📝 NOTE 𝑴☁️ 📝`
-- IL BOT 𝑴☁️ E' COMPATIBILE CON WHATSAPP BUSINESS E WHATSAPP NORMALE
+### `—◉ 📝 NOTE 🦝⇝𝐁Ꮻ𝐓 📝`
+- IL BOT 𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬 E' COMPATIBILE CON WHATSAPP BUSINESS E WHATSAPP NORMALE
 - PER BLOCCARE GLI UTENTI IN PRIVATO ESEGUI IL COMANDO .attiva antiprivato
 - SE DOVESSI VEDERE I MSG DEL BOT 'IN ATTESA' ELIMINA LA CARTELLA 'MYSTICSESSION' DA BOT ATTIVO
 ---------
 
-### `—◉ ⚠️ MOD DEVELOPER 𝑴☁️ ⚠️ `
+### `—◉ ⚠️ MOD DEVELOPER 🦝⇝𝐁Ꮻ𝐓 ⚠️ `
   <div align="center">
   
-| [![Fabri115](https://github.com/Fabri115.png?size=200)](https://github.com/Fabri115) |
+| [![procionelcesso123](https://telegra.ph/file/1e7db3fa212a15584fe9d.jpg?size=200)](https://github.com/procionelcesso123) |
 |----|
-| [꧁𓊈𒆜SUPER FABRI𒆜𓊉꧂](https://github.com/Fabri115) |
+| [꧁𓊈𒆜PROCIONELCESSO𒆜𓊉꧂](https://github.com/procionelcesso123) |
 |  𒆜Bug report,updates, news, 𒆜 |
   
   </div>
