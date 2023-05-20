@@ -30,6 +30,7 @@ let prova = {"key": {
 let text = `
 
 ┌──⭓ *MENU NOVITA'*
+│⭔ .procione 🦝👣
 │⭔ .spotify (+ nome song)
 │⭔ .muta @user
 │⭔ .smuta @user 
