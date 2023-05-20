@@ -4,13 +4,13 @@
 <img src= "https://telegra.ph/file/bc12386c7355151f41702.jpg" alt="BOT" width="720">
 </p>
 
-### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
+### `—◉ ⚙️ CONFIGURAZIONE ⚙️`
 `USA IL BOTTONE PER ESEGUIRE IL FORK`
   
   <a href="https://github.com/procionelcesso123/procionebot/form"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 - CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/form)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui] (https://github.com/procionelcesso123/procionebot/blob/master/config.js)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui][(https://github.com/procionelcesso123/procionebot/blob/master/config.js)]
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
