@@ -18,4 +18,17 @@ const grup = './procione.jpg'
 let old = performance.now()
 let neww = performance.now()
 let speed = neww - old
-let text = *QUESTO NON E' UN PROCIONE, E' IL PROCIONE, @PROCIONELCESSO!
+let text = 
+
+*QUESTO NON E' UN PROCIONE, E' IL PROCIONE, @PROCIONELCESSO!*
+`.trim()
+conn.sendFile(m.chat, img, 'procione.jpg', caption, m)
+} catch (e) {
+console.log(e)
+throw '*Error!*'
+}}
+handler.help = ['procione']
+handler.tags = ['random']
+handler.command = 'procione'
+handler.fail = null
+export default handler  
