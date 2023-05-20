@@ -7,7 +7,7 @@
 ### `—◉ ⚙️ CONFIGURAZIONE 🦝⇝𝐁Ꮻ𝐓 ⚙️`
 `USA IL BOTTONE PER ESEGUIRE IL FORK`
   
-  <a href="https://github.com/procionelcesso123/procionebot/form"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/procionelcesso123/procionebot/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 - CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/fork)
 - CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
