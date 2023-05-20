@@ -7,14 +7,14 @@
 ### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
 `USA IL BOTTONE PER ESEGUIRE IL FORK`
   
-  <a href="https://github.com/Fabri115/BotWhaIta/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/procionelcesso123/procionebot/form"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
-- CLONARE LA REPOSITORY [qui](https://github.com/Fabri115/BotWhaIta/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Fabri115/BotWhaIta/blob/master/config.js)
+- CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/form)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui] (https://github.com/procionelcesso123/procionebot/blob/master/config.js)
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Fabri115/BotWhaIta&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//BotWhaIta&branch=master&name=mysticbot)
   
 ### `—◉ 🌌 ATTIVA 𝑴☁️ SU REPLIT 🌌`
 
