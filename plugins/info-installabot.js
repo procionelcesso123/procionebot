@@ -12,15 +12,15 @@ let text = `
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Fabri115/BotWhaIta.git
-> cd BotWhaIta 
+> git clone https://github.com/procionelcesso123/procionebot.git
+> cd procionebot
 > yarn install 
 > npm install
 > npm update
 > npm start
 
 𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐓𝐄𝐑𝐌𝐔𝐗 📱 PER SCARICARE IL BOT
-cd /sdcard && rm -rf BotWhaIta && git clone https://github.com/Fabri115/BotWhaIta.git && cd BotWhaIta && sh start.sh 
+cd /sdcard && rm -rf BotWhaIta && git clone https://github.com/procionelcesso123/procionebot.git && cd procionebot && sh start.sh 
 `.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
