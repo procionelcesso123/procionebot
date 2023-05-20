@@ -4,7 +4,7 @@ try {
 let res = await fetch('procione.jpg')
 let img = await res.buffer()
 let caption = `
-*OH MA QUESTA E UNA TIGRE*
+*QUESTO NON E' UN PROCIONE, E' IL PROCIONE, @PROCIONECESSO!*
 `.trim()
 conn.sendFile(m.chat, img, 'procione.jpg', caption, m)
 } catch (e) {
