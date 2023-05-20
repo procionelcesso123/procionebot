@@ -23,6 +23,7 @@ let text = `
 ✦✧✧𝐁Ꮻ𝐓✧✧✦
 
 ┌──⭓ *MENU NOVITA'*
+│⭔ ${usedPrefix}procione 🦝👣
 │⭔ ${usedPrefix}spotify (+ nome song)
 │⭔ ${usedPrefix}attiva chatbot 
 │⭔ ${usedPrefix}abbraccio + @
