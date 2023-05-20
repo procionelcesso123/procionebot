@@ -22,7 +22,7 @@
 
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
-https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
+https://bit.ly/termux119
 
 ### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU TERMUX 👾` 
 
