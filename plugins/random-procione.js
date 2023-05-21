@@ -6,7 +6,7 @@ throw ''
 let gruppi = global.db.data.chats[m.chat]
 if (gruppi.spacobot === false)
 throw ''
-m.reply(`${toM(a)} ${pickRandom([L'UNICO PROCIONE E' https://www.instagram.com/procionelcesso/])} ${toM(b)}`, null, {
+m.reply(`${toM(a)} ${pickRandom([L'UNICO PROCIONE E' https://www.instagram.com/procionelcesso])} ${toM(b)}`, null, {
 })}
 handler.customPrefix = /procione/i
 handler.command = new RegExp
