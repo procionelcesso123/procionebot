@@ -32,7 +32,6 @@ let text = `─⭓ *🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓|mənū�
 *ciao ${name} in base a quale dispositivo hai, esegui il comando!*
   ඬ ${usedPrefix}MENUANDROID
   ඬ ${usedPrefix}MENUIOS
-  ඬ ${usedPrefix}NEWS
  ⇝ *per info contatta il proprietario:*
    https://wa.me/393791009633 `.trim() 
 conn.reply(m.chat, text, prova, m, false, )
