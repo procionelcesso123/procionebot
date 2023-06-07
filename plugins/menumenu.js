@@ -98,7 +98,6 @@ let info = `
 🦝 ════ •⊰❂⊱• ════ 🦝
 
 ┌──⭓ 𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈
-│⭔ ${usedPrefix}procione
 │⭔ ${usedPrefix}gay @
 │⭔ ${usedPrefix}frocio @
 │⭔ ${usedPrefix}lesbica @
