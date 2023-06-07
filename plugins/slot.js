@@ -5,7 +5,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     let users = global.db.data.users[m.sender]
     let apuesta = parseInt(args[0])
 
-    let emojis = ["🛡️", "🏴‍☠️", "🩸"];
+    let emojis = ["🦝", "👾", "👽"];
     let a = Math.floor(Math.random() * emojis.length);
     let b = Math.floor(Math.random() * emojis.length);
     let c = Math.floor(Math.random() * emojis.length);
