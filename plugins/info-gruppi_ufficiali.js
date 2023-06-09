@@ -19,6 +19,6 @@ m.reply(`
 
 handler.help = ['support']
 handler.tags = ['main']
-handler.command = ['esoto network', 'gp', 'gruppi', 'community', 'gruppi ufficiali'] 
+handler.command = ['esotonetwork', 'gp', 'gruppi', 'community', 'gruppi ufficiali'] 
 
 export default handler
