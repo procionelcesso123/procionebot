@@ -21,20 +21,26 @@ if (chat.chatbot) {
 let texto1A = /fra/i
 let texto1B = texto1A.exec(m.text)
 
-let texto2A = /fabri/i
+let texto2A = /procione/i
 let texto2B = texto2A.exec(m.text)
 
-let texto3A = /achi/i
+let texto3A = /zitta/i
 let texto3B = texto3A.exec(m.text)
 
-let texto4A = /dani/i
+let texto4A = /peppe/i
 let texto4B = texto4A.exec(m.text)
 
 let texto5A = /ping/i
 let texto5B = texto5A.exec(m.text)
 
-let texto6A = /moon/i
+let texto6A = /esoto/i
 let texto6B = texto6A.exec(m.text)
+
+let texto7A = /carrello/i
+let texto7B = texto6A.exec(m.text)
+
+let texto8A = /duce/i
+let texto8B = texto6A.exec(m.text)
 //━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -56,7 +62,7 @@ await conn.sendPresenceUpdate('composing', m.chat)
         
         if (texto4B) {
 await conn.sendPresenceUpdate('composing', m.chat)
-        conn.reply(m.chat, `Cazzo ma hai visto quanto è potente?`, m)
+        conn.reply(m.chat, `peppe siamo tutti noi, noi siamo tutti peppe`, m)
         }
         
          if (texto5B) {
@@ -67,6 +73,16 @@ await conn.sendPresenceUpdate('composing', m.chat)
         if (texto6B) {
 await conn.sendPresenceUpdate('composing', m.chat)
         conn.reply(m.chat, `ESISTE SOLO UN GRUPPO!`, m)
+        }
+        
+        if (texto7B) {
+await conn.sendPresenceUpdate('composing', m.chat)
+        conn.reply(m.chat, `carello è stra frocio`, m)
+        }
+        
+        if (texto6B) {
+await conn.sendPresenceUpdate('composing', m.chat)
+        conn.reply(m.chat, `si lavora e si produce... per fare un pompino al duce`, m)
         }
 //━━━━━━━━━━━━━━━━━━━━━━━
 }
