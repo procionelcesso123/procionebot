@@ -33,8 +33,26 @@ conn.sendMessage(m.chat, { quoted: m })
 //conn.sendFile(m.chat, vn, 'error.mp3', null, m, true, { type: 'audioMessage', ptt: true })
 }
     
+if (command == 'topnazifascisti') {
+let top = `𝐓𝐨𝐩 𝟏𝟎 *nazifascsti*`
+
+1. ${user(a)} ${Math.floor (100)}%
+2. ${user(b)} ${Math.floor (93)}%
+3. ${user(c)} ${Math.floor (85)}%
+4. ${user(d)} ${Math.floor (71)}%
+5. ${user(e)} ${Math.floor (62)}%
+6. ${user(f)} ${Math.floor (55)}%
+7. ${user(g)} ${Math.floor (42)}%
+8. ${user(h)} ${Math.floor (33)}%
+9. ${user(i)} ${Math.floor (27)}%
+10. ${user(j)} ${Math.floor (11)}%`
+m.reply(top, null, { mentions: [a, b, c, d, e, f, g, h, i, j]})
+conn.sendMessage(m.chat, { quoted: m })    
+//conn.sendFile(m.chat, vn, 'porcodio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
+}
+    
 if (command == 'topscimmie') {
-let top =    `𝐓𝐨𝐩 𝟏𝟎 *Scimmia*    
+let top =    `𝐓𝐨𝐩 𝟏𝟎 *scimmie*`   
     
 1. ${user(a)} ${Math.floor (100)}%
 2. ${user(b)} ${Math.floor (93)}%
