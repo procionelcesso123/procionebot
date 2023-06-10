@@ -54,19 +54,6 @@ let text = `
 │⭔ bestemmia
 │⭔ moneta (testa o croce)
 └───────⭓
-┌──⭓ *MENU 'AUDIO'*
-|⭔ Drama|Fail|Game Over|TG5
-│⭔ Timida|Ma che fai|rutto
-│⭔ Sei una monella|Soddisfazione
-│⭔ Io pago|Renzi|Rosario Muniz
-│⭔ Mio figlio poteva morire|Dio cancaro
-└───────⭓
-┌──⭓ *MENU 'STICKER'*
-│⭔ Steve Jobs
-│⭔ Non ci sono
-│⭔ Banana
-|⭔ Cesso
-└───────⭓
 
 ┌──⭓ 𝐆𝐑𝐔𝐏𝐏𝐎
 │ඬ ${usedPrefix}kick / addio / ban @
@@ -158,6 +145,7 @@ let text = `
 │ඬ ${usedPrefix}dox @
 │ඬ ${usedPrefix}topgays
 │ඬ ${usedPrefix}topscimmie
+│ඬ ${usedPrefix}topnazifascisti '𝓷𝓮𝔀
 │ඬ ${usedPrefix}slot
 │ඬ ${usedPrefix}calc (1+1)
 │ඬ ${usedPrefix}autoadmin
