@@ -11,6 +11,7 @@
         pkgs.wget
         pkgs.yarn
         pkgs.libuuid
+        git submodule update --init
     ];
     env = {
         LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
