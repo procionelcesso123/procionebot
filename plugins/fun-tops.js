@@ -34,7 +34,7 @@ conn.sendMessage(m.chat, { quoted: m })
 }
     
 if (command == 'topnazifascisti') {
-let top = `𝐓𝐨𝐩 𝟏𝟎 *nazifascsti*`
+let top = `𝐓𝐨𝐩 𝟏𝟎 *nazifascisti*`
 
 1. ${user(a)} ${Math.floor (100)}%
 2. ${user(b)} ${Math.floor (93)}%
