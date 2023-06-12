@@ -109,11 +109,11 @@ getMessage: async (key) => {
 if (store) {
 const msg = await store.loadMessage(key.remoteJid, key.id)
 return msg.message || undefined }
-return { conversation: "hello, i'm BrunoSobrino" }},   
+return { conversation: "ciao, sono procione" }},   
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['MysticBot','Safari','9.7.0'],
+browser: ['Procione.Bot','Safari','9.7.0'],
 version   
 }
 
