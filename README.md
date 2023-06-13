@@ -29,7 +29,7 @@
 
   [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
 
-<details>
+</details>
 
 
 ## —◉ ⚙️ ATTIVAZIONE 🦝⇝𝐁Ꮻ𝐓 
