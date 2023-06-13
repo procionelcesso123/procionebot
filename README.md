@@ -38,6 +38,24 @@
 
   [![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
 
+### `—◉ COME FARE UN SERVER 24/7 SU REPLIT`
+
+## 1. INSTALLA I PACCHETTI
+Prima di eseguire il repl fai questo:
+* Esegui `npm init -y` nella Shell
+* Esegui `sh-session npm install express ping-monitor`
+![](https://user-images.githubusercontent.com/69215413/146991197-2e6ae207-942d-473f-ad1e-6cb78067cef8.png)
+  
+## 2. ESEGUI IL REPL 
+Clicca il pulsante "Run":\
+![](https://user-images.githubusercontent.com/69215413/146987397-637e9f1a-2987-459b-86ef-bc651ca525be.png)
+
+## 3. CRON-JOB.org
+Useremo [Cron-Job.org](https://console.cron-job.org/) come sistema di monitoraggio del server.
+
+* Copia l'URL del sito visualizzato quando esegui il repl:
+![](https://telegra.ph/file/1479c7c9a2b5f4fc1baeb.jpg)
+
 </details>
 
 <details>
