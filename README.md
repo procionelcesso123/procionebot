@@ -11,6 +11,56 @@
 <br>
 - CLONARE LA REPOSITORY [qui](https://github.com/procionelcesso123/procionebot/fork)
 - CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
+
+<details>
+  <summary>### `ATTIVA 🦝⇝𝐁Ꮻ𝐓`</summary>
+  
+  * [Koyeb](#koyeb)
+  * [Replit](#replit)
+  * [Heroku](#heroku)
+  * [Termux](#termux)
+  * [VPS](#vps)
+  
+</details>
+
+---
+
+## Istruzioni per l'attivazione del bot
+
+<details>
+  <summary>Koyeb</summary>
+
+  (Inserire qui le istruzioni per attivare il bot su Koyeb)
+
+</details>
+
+<details>
+  <summary>Replit</summary>
+
+  (Inserire qui le istruzioni per attivare il bot su Replit)
+
+</details>
+
+<details>
+  <summary>Heroku</summary>
+
+  (Inserire qui le istruzioni per attivare il bot su Heroku)
+
+</details>
+
+<details>
+  <summary>Termux</summary>
+
+  (Inserire qui le istruzioni per attivare il bot su Termux)
+
+</details>
+
+<details>
+  <summary>VPS</summary>
+
+  (Inserire qui le istruzioni per attivare il bot su VPS)
+
+</details>
   
 ### `—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 💥`
 
