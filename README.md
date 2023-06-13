@@ -47,7 +47,6 @@
 https://bit.ly/termux119
 
 
-### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX 👾`
 - DIGITA QUESTI COMANDI:
 ```bash
 termux-setup-storage
@@ -125,7 +124,7 @@ DIGITA QUESTI COMANDI:
 </details>
 
 <details>
-  <summary><b>PER WINDOWS/VPS/RDP</b></summary>
+  <summary><b>—◉ 💻 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU WINDOWS/VPS/RDP 💻</b></summary>
 
 * Installa Git [`Click Here`](https://git-scm.com/downloads)
 * Installa NodeJS [`Click Here`](https://nodejs.org/en/download)
