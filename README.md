@@ -13,17 +13,19 @@
 - CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
 
 
-## Istruzioni per l'attivazione del bot
+## —◉ ⚙️ ATTIVAZIONE 🦝⇝𝐁Ꮻ𝐓 
 
 <details>
-  <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB</b></summary>
+  <summary><b>—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 🌌</b></summary>
+
 
   [![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
 
 </details>
 
 <details>
-  <summary><b>—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 🌌</b></summary>
+  <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 💥</b></summary>
+
 
   [![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
 
@@ -32,6 +34,7 @@
 <details>
   <summary><b>—◉ 🎗 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU HEROKU 🎗</b></summary>
 
+
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/procionelcesso123/procionebot])
 
 </details>
@@ -39,63 +42,12 @@
 <details>
   <summary><b>—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU TERMUX 👾</b></summary>
 
-  (Inserire qui le istruzioni per attivare il bot su Termux)
-
-</details>
-
-<details>
-  <summary><b>VPS</b></summary>
-
-  (Inserire qui le istruzioni per attivare il bot su VPS)
-
-</details>
-
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
 https://bit.ly/termux119
 
-### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU TERMUX 👾` 
 
-Comandi termux di base, necessari per l'avvio del bot:
-
--_1 COMANDO :
-
-termux-change-repo
-
-Conferma, segna la terza casella e conferma e continua >
-
--_2 COMANDO :
-
-apt-get upgrade
-
-Dovrai digitare y e confermare ogni volta che lo chiede.
-
--_3 COMANDO :
-
-apt-get update
-
-Dovrai digitare y e confermare ogni volta che lo chiede.
-
--_4 Comando :
-
-pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
-
--_5 COMANDO :
-
-termux-setup-storage
-
-e conferma.
-
-----_-
-
-
-### `—◉ ⇝ COMANDO PER INSTALLARE LA CARTELLA DI 🦝⇝𝐁Ꮻ𝐓 🌌`
-```bash
-cd /sdcard && rm -rf procionebot && git clone https://github.com/procionelcesso123/procionebot.git && cd procionebot && sh start.sh 
-```
-COPIALO TUTTO E INCOLLALO SU TERMUX ↑
-
-### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX 👾` 
+### `—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX 👾`
 - DIGITA QUESTI COMANDI:
 ```bash
 termux-setup-storage
@@ -149,26 +101,13 @@ npm update
 sh start.sh
 ```
 
-### `—◉ ✔️ AVVIA 🦝⇝𝐁Ꮻ𝐓 IN TERMUX ✔️`
-
-DIGITA QUESTI COMANDI:
-```bash
-> cd 
-```
-```bash
-> cd procionebot
-```
-```bash
-> sh start.sh
-```
-  
-### `—◉ ✔️ For 24/7 Activation 🦝⇝𝐁Ꮻ𝐓 TERMUX ✔️`
+### `—◉ ✔️ PER 24/7 🦝⇝𝐁Ꮻ𝐓 SU TERMUX ✔️`
   
  ```bash
 > npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   ```
 
-### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 👽`
+### `—◉ 👽 PER OTTENERE UN ALTRO CODICE QR 👽`
 
 DIGITA QUESTI COMANDI:
 ```bash
@@ -183,13 +122,15 @@ DIGITA QUESTI COMANDI:
 ```bash
 > sh start.sh
 ```
+</details>
 
-### `FOR WINDOWS/VPS/RDP USER`
+<details>
+  <summary><b>PER WINDOWS/VPS/RDP</b></summary>
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Installa Git [`Click Here`](https://git-scm.com/downloads)
+* Installa NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Installa FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Non dimenticare di aggiungere FFmpeg alle variabili di ambiente PATH**)
+* Installa ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
 git clone https://github.com/procionelcesso123/procionebot
@@ -211,6 +152,8 @@ npm update
 ```bash
 node .
 ```
+
+</details>
 
 
 ---------
