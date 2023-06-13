@@ -13,50 +13,42 @@
 - CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
 
 
-## ISTRUZIONI PER L'ATTIVAZIONE DI 🦝⇝𝐁Ꮻ𝐓
+## Istruzioni per l'attivazione del bot
 
 <details>
-  <summary>### `—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 💥`</summary>
+  <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB</b></summary>
 
-  (Inserire qui le istruzioni per attivare il bot su Koyeb)
+  [![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
 
 </details>
 
 <details>
-  <summary>Replit</summary>
+  <summary><b>—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 🌌</b></summary>
 
-  (Inserire qui le istruzioni per attivare il bot su Replit)
-
-</details>
-
-<details>
-  <summary>Heroku</summary>
-
-  (Inserire qui le istruzioni per attivare il bot su Heroku)
+  [![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
 
 </details>
 
 <details>
-  <summary>Termux</summary>
+  <summary><b>—◉ 🎗 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU HEROKU 🎗</b></summary>
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/procionelcesso123/procionebot])
+
+</details>
+
+<details>
+  <summary><b>—◉ 👾 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU TERMUX 👾</b></summary>
 
   (Inserire qui le istruzioni per attivare il bot su Termux)
 
 </details>
 
 <details>
-  <summary>VPS</summary>
+  <summary><b>VPS</b></summary>
 
   (Inserire qui le istruzioni per attivare il bot su VPS)
 
 </details>
-  
-### `—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 💥`
-
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
-  
-### `—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 24/7 🌌` -OPZIONE CONSIGLIATA
-
-[![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot) 
 
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
