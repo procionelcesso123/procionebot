@@ -24,10 +24,10 @@ cd /sdcard && rm -rf procionebot && git clone https://github.com/procionelcesso1
 `.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: 'bot',
-body: 'bot',         
+title: 'INSTALLAZZIONE BOT',
+body: '𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/`}}})   
+sourceUrl: `https://github.com/procionelcesso123/procionebot`}}})   
 }
 handler.command = /^(installa)/i
 export default handler
