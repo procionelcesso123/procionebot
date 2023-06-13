@@ -27,6 +27,7 @@
 <details>
   <summary><b>—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 🌌</b></summary>
 
+Clicca il pulsante per attivare il bot su Koyeb:
 
   [![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
 
@@ -36,7 +37,9 @@
   <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 💥 -consigliato</b></summary>
 
 
-  [![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
+Clicca il pulsante per attivare il bot su Replit: 
+
+[![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
 
 ### `—◉ COME FARE UN SERVER 24/7 SU REPLIT`
 
@@ -77,6 +80,7 @@ Ora il tuo bot rimarrà attivo 24 ore su 24, 7 giorni su 7 anche dopo aver chius
 <details>
   <summary><b>—◉ 🎗 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU HEROKU 🎗</b></summary>
 
+Clicca il pulsante per attivare il bot su Heroku:
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/procionelcesso123/procionebot])
 
@@ -87,7 +91,11 @@ Ora il tuo bot rimarrà attivo 24 ore su 24, 7 giorni su 7 anche dopo aver chius
 
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
-https://bit.ly/termux119
+
+Clicca il pulsante per scaricare Termux:
+
+<a href="https://bit.ly/termux119"><img src="https://telegra.ph/file/c68dcf19a390ffb792c3e.png" alt="Termux.apk" width="100"></a>
+
 
 
 - DIGITA QUESTI COMANDI:
