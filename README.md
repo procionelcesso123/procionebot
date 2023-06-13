@@ -5,29 +5,19 @@
 </p>
 
 
-### `—◉ ⚙️ CONFIGURAZIONE 🦝⇝𝐁Ꮻ𝐓 ⚙️`
+## —◉ ⚙️ CONFIGURAZIONE 🦝⇝𝐁Ꮻ𝐓 ⚙️
 
 <details>
-  <summary><b>ESEGUI IL FORK</b></summary>
+  <summary><b>ESEGUI IL FORK DELLA REPOSITORY</b></summary>
 
-`USA IL BOTTONE PER ESEGUIRE IL FORK`
-  
-  <a href="https://github.com/procionelcesso123/procionebot/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
-<br>
-
-</details>
-
-<details>
-  <summary><b>CLONA LA REPOSITORY</b></summary>
-
-  [qui](https://github.com/procionelcesso123/procionebot/fork)
+  [clicca qui per clonare la repository](https://github.com/procionelcesso123/procionebot/fork)
 
 </details>
 
 <details>
   <summary><b>CAMBIA IL NUMERO DEL PROPRIETARIO</b></summary>
 
-  [qui](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
+  [clicca qui per cambiare il numero del proprietario](https://github.com/procionelcesso123/procionebot/blob/master/config.js)
 
 </details>
 
