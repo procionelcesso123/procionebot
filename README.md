@@ -55,14 +55,15 @@ Clicca il pulsante "Run":\
 Useremo [Cron-Job.org](https://console.cron-job.org/) come sistema di monitoraggio del server.
 
 * Copia l'URL del sito visualizzato quando esegui il repl:
-  ![](https://user-images.githubusercontent.com/69215413/146987775-56f77514-c7c1-4a67-8d81-7de17200d99b.png)
+
+![](https://user-images.githubusercontent.com/69215413/146987775-56f77514-c7c1-4a67-8d81-7de17200d99b.png)
 
 * Vai su [Cron-Job.org](https://console.cron-job.org/) e crea un account:
 <img src="https://telegra.ph/file/3be6f411e4538680907f8.jpg" alt="home" width="400" height="500">
 
 * Dopo aver creato l'account dovresti visualizzare la [dashboard](https://console.cron-job.org/dashboard). Da qui crea un CRONJOB:
   
-  ![](https://telegra.ph/file/327785f9c21865a6305fa.jpg)
+![](https://telegra.ph/file/327785f9c21865a6305fa.jpg)
 
 * Seleziona le stesse impostazioni che ci sono nell'immagine sottostante, quindi salva (cliccando sul pulsante in basso a destra "SALVA").
 Sostituisci "https://procionebot.procionelcesso1.repl.co/" con l'url copiato in precedenza dal tuo repl.
