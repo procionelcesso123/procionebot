@@ -10,6 +10,14 @@ let res2 = await fetch(`https://api.lolhuman.xyz/api/spotify?apikey=059cd524890a
 let json2 = await res2.json()
 let {title, artists} = json2.result
 m.reply(`🎵 ${title}\n\n 🗣 ${artists}\n\n⏳️ carico..`)
+`.trim()   
+conn.reply(m.chat, text, m, {
+contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
+title: 'Spotify',
+body: 'canzone in arrivo...',         
+previewType: 0, thumbnail: fs.readFileSync("./spotify.png"),
+sourceUrl: `https://t.me/Spotify_Crack`}}})
+
 let aa =
 conn.sendMessage(m.chat, {
 audio: {
