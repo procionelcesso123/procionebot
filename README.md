@@ -22,7 +22,7 @@
 </details>
 
 
-## —◉ ⚙️ ATTIVAZIONE 🦝⇝𝐁Ꮻ𝐓 
+## —◉ 🍳 ATTIVAZIONE 🦝⇝𝐁Ꮻ𝐓 🍳
 
 <details>
   <summary><b>—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU KOYEB 🌌</b></summary>
