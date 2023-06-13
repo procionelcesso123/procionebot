@@ -16,9 +16,9 @@
 
 [![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com//procionebot&branch=master&name=procione.bot)
   
-### `—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 🌌`
+### `—◉ 🌌 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 24/7 🌌` -OPZIONE CONSIGLIATA
 
-[![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)  
+[![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot) 
 
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
