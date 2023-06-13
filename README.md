@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 💥</b></summary>
+  <summary><b>—◉ 💥 ATTIVA 🦝⇝𝐁Ꮻ𝐓 SU REPLIT 💥 -consigliato</b></summary>
 
 
   [![Attiva su Repl.it](https://replit.com/badge/github/Fabri115/BotWhaIta)](https://repl.it/github/procionelcesso123/procionebot)
@@ -44,6 +44,7 @@
 Prima di eseguire il repl fai questo:
 * Esegui `npm init -y` nella Shell
 * Esegui `sh-session npm install express ping-monitor`
+  
 ![](https://user-images.githubusercontent.com/69215413/146991197-2e6ae207-942d-473f-ad1e-6cb78067cef8.png)
   
 ## 2. ESEGUI IL REPL 
@@ -54,7 +55,21 @@ Clicca il pulsante "Run":\
 Useremo [Cron-Job.org](https://console.cron-job.org/) come sistema di monitoraggio del server.
 
 * Copia l'URL del sito visualizzato quando esegui il repl:
-![](https://telegra.ph/file/1479c7c9a2b5f4fc1baeb.jpg)
+  ![](https://user-images.githubusercontent.com/69215413/146987775-56f77514-c7c1-4a67-8d81-7de17200d99b.png)
+
+* Vai su [Cron-Job.org](https://console.cron-job.org/) e crea un account:
+<img src="https://telegra.ph/file/3be6f411e4538680907f8.jpg" alt="home" width="400" height="500">
+
+* Dopo aver creato l'account dovresti visualizzare la [dashboard](https://console.cron-job.org/dashboard). Da qui crea un CRONJOB:
+  
+  ![](https://telegra.ph/file/327785f9c21865a6305fa.jpg)
+
+* Seleziona le stesse impostazioni che ci sono nell'immagine sottostante, quindi salva (cliccando sul pulsante in basso a destra "SALVA").
+Sostituisci "https://procionebot.procionelcesso1.repl.co/" con l'url copiato in precedenza dal tuo repl.
+
+ ![](https://telegra.ph/file/8edec72608904b37166ef.jpg)
+
+Ora il tuo bot rimarrà attivo 24 ore su 24, 7 giorni su 7 anche dopo aver chiuso replit. [Cron-job.org](https://console.cron-job.org/) eseguirà il ping del tuo server ogni minuto per assicurarsi che funzioni ancora, di solito serve per avvisarti di tempi di inattività imprevisti, ma in questo caso i ping costanti hanno l'effetto di mantenere in vita il nostro Repl poiché la versione gratuita prevede lo spegnimento dopo circa un'ora di inattività.
 
 </details>
 
