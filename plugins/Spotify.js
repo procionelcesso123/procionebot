@@ -1,39 +1,47 @@
-import fetch from 'node-fetch'
-let handler = async (m, { conn, command, text, usedPrefix }) => {
-if (!text)
-throw `Inserisci con il comando, il nome della canzone da cercare! esempio`
-try {
-let res = await fetch(`https://api.lolhuman.xyz/api/spotifysearch?apikey=059cd524890a2bbb5d6edb46&query=${lolkeysapi}&query=${text}`)
-let json = await res.json()
-let {link} = json.result[0]
-let res2 = await fetch(`https://api.lolhuman.xyz/api/spotify?apikey=059cd524890a2bbb5d6edb46&url=${lolkeysapi}&url=${link}`)
-let json2 = await res2.json()
-let {title, artists} = json2.result
-m.reply(`🎵 ${title}\n\n 🗣 ${artists}\n\n⏳️ carico..`)
-`.trim()   
-conn.reply(m.chat, text, m, {
-contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: 'Spotify',
-body: 'canzone in arrivo...',         
-previewType: 0, thumbnail: fs.readFileSync("./spotify.png"),
-sourceUrl: `https://t.me/Spotify_Crack`}}})
+js
+import SpotifyWebApi from 'spotify-web-api-node';
 
-let aa =
-conn.sendMessage(m.chat, {
-audio: {
-url: json2.result.link
-}, ptt: true, mimetype: 'audio/mpeg', fileName: `Audio.mp3`
-}, {
-quoted: m
-})
-if (!aa) return conn.sendFile(m.chat, json2.result.link, 'Audio.mp3', null, m, false, {
-mimetype: 'audio/mp4'
-})}
-catch {
-throw 'Ho riscontrato un errore, assicurati di aver digitato correttamente il nome della canzone o riprova più tardi'
-}
-return}
-handler.help = ['play', 'play2'].map(v => v + ' <pencarian>')
-handler.tags = ['downloader']
-handler.command = /^spotify?$/i
-export default handler
+const spotifyApi = new SpotifyWebApi({
+  clientId: '94704ca5305d40bd914c8410077483e9',
+  clientSecret: 'a8817299a9ba45899d2ad9d1268e25b7',
+  redirectUri: 'https://procionebot.procionelcesso1.repl.co/'
+});
+
+let handler = async (m, { conn, command, text, usedPrefix }) => {
+  if (!text) throw `Inserisci con il comando, il nome della canzone da cercare! esempio`
+
+  try {
+    const data = await spotifyApi.searchTracks(text);
+    const track = data.body.tracks.items[0];
+    
+    // invia un messaggio di conferma di ricerca
+    const searchMessage = await conn.sendMessage(m.chat, `🎵 ${track.name}\n\n 🗣 ${track.artists[0].name}\n\n⏳️ carico..`, m);
+
+    // recupera il file audio dal link di Spotify
+    const audioURL = await ytdl(track.external_urls.spotify);
+
+    // invia il file audio al chat
+    const aa = await conn.sendMessage(m.chat, {
+      audio: {
+        url: audioURL
+      }, ptt: true, mimetype: 'audio/mpeg', fileName: `Audio.mp3`
+    }, m);
+
+    // elimina il messaggio di conferma di ricerca
+    searchMessage.delete();
+
+    if (!aa) {
+      conn.sendFile(m.chat, audioURL, 'Audio.mp3', null, m, false, {
+        mimetype: 'audio/mp4'
+      });
+    }
+  } catch (error) {
+    throw 'Ho riscontrato un errore, assicurati di aver digitato correttamente il nome della canzone o riprova più tardi';
+  }
+};
+
+handler.help = ['play', 'play2'].map(v => v + ' <pencarian>');
+handler.tags = ['downloader'];
+handler.command = /^spotify?$/i;
+
+export default handler;
