@@ -1370,9 +1370,9 @@ export async function callUpdate(callUpdate) {
     for (let nk of callUpdate) {
     if (nk.isGroup == false) {
     if (nk.status == "offer") {
-    let callmsg = await this.reply(nk.from, `ciao @${nk.from.split('@')[0]}, c'è anticall.`, false, { mentions: [nk.from] })
+    let callmsg = await this.reply(nk.from, `a' frocetto @${nk.from.split('@')[0]}, che cazzo chiami il bot.`, false, { mentions: [nk.from] })
     //let data = global.owner.filter(([id, isCreator]) => id && isCreator)
-    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=5219992095479:+521 999 209 5479\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD`
+    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;PROCIONE;;;\nFN:PROCIONE\nORG:PROCIONE\nTITLE:\nitem1.TEL;waid=1111111111111:+1 111 111 1111\nitem1.X-ABLabel:PROCIONE\nX-WA-BIZ-DESCRIPTION:non scassa u' cazz\nX-WA-BIZ-NAME:PROCIONE\nEND:VCARD`
     await this.sendMessage(nk.from, { contacts: { displayName: 'Unlimited', contacts: [{ vcard }] }}, {quoted: callmsg})
     await this.updateBlockStatus(nk.from, 'block')
     }
