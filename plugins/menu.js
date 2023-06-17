@@ -28,13 +28,25 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = `─⭓ *🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓|mənū🦝*
-*ciao ${name} ecco i comandi principali:*
-  ඬ ${usedPrefix}PROCIONECOMMANDS
-  ඬ ${usedPrefix}ESOTONETWORK 🥂
-  
- ⇝ *Utilizza anche tu 🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓!:*
-  ඬ ${usedPrefix}INSTALLA`.trim() 
+let text = `═══════ •⊰✧⊱• ═══════
+─⭓ 𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓 🦝
+✰‌ ‌𝐔𝐭𝐞𝐧𝐭𝐞: *${name}* 
+✰‌ 𝐏𝐫𝐞𝐟𝐢𝐬𝐬𝐨: *${usedPrefix}*
+═══════════════
+✧‌⃟ᗒ ${usedPrefix}𝐩𝐫𝐨𝐩𝐫𝐢𝐞𝐭𝐚𝐫𝐢𝐨
+✧‌⃟ᗒ ${usedPrefix}𝐢𝐧𝐟𝐨𝐛𝐨𝐭/𝐩𝐢𝐧𝐠
+✰‌⃟ᗒ ${usedPrefix}𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚
+═════𝐌𝐄𝐍𝐔══════
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐨
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐨𝐰𝐧𝐞𝐫
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐠𝐫𝐮𝐩𝐩𝐨
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐚𝐭𝐭𝐢𝐯𝐚
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐦𝐞𝐝𝐢𝐚
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐚𝐮𝐝𝐢𝐨
+✧‌⃟ᗒ ${usedPrefix}𝐦𝐞𝐧𝐮𝐥𝐨𝐠𝐡𝐢
+✧‌⃟ᗒ ${usedPrefix}𝒏𝒆𝒘𝒔                
+══════ •⊰✧⊱• ══════
+${usedPrefix}𝐞𝐬𝐨𝐭𝐨𝐧𝐞𝐭𝐰𝐨𝐫𝐤 ᶜʰⁱᵘˢᵒ`.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
