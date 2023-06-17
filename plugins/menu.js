@@ -32,8 +32,9 @@ let text = `─⭓ *🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓|mənū�
 *ciao ${name} ecco i comandi principali:*
   ඬ ${usedPrefix}PROCIONECOMMANDS
   ඬ ${usedPrefix}ESOTONETWORK 🥂
- ⇝*per info contatta il proprietario:*
-   https://wa.me/393791009633 `.trim() 
+  
+ ⇝*Utilizza anche tu 🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓!:*
+https://github.com/procionelcesso123/procionebot`.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
