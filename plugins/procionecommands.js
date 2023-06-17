@@ -39,7 +39,7 @@ let text = `
 └───────⭓
 
 ┌──⭓ *MENU 'PROCIONE'*
-|- PROCIONE funziona senza uso
+|- funziona senza uso
 |  di prefisso.
 |  per attivarlo:
 |⭔ ON: sveglia procione 
@@ -145,7 +145,6 @@ let text = `
 │ඬ ${usedPrefix}dox @
 │ඬ ${usedPrefix}topgays
 │ඬ ${usedPrefix}topscimmie
-│ඬ ${usedPrefix}topnazifascisti '𝓷𝓮𝔀
 │ඬ ${usedPrefix}slot
 │ඬ ${usedPrefix}calc (1+1)
 │ඬ ${usedPrefix}autoadmin
@@ -187,7 +186,7 @@ conn.sendFile(m.chat, grup, 'errop.jpg', text, m, false, )
 }
 handler.help = ['menu']
 handler.tags = ['menu']
-handler.command = /^(procionecommands)$/i
+handler.command = /^(menucompleto)$/i
 export default handler
 
 function clockString(ms) {
