@@ -29,9 +29,8 @@ let prova = {
 }}, "participant": "0@s.whatsapp.net"
 }
 let text = `─⭓ *🦝𝑷𝑹𝑶𝑪𝑰𝑶𝑵𝑬⇝𝐁Ꮻ𝐓|mənū🦝*
-*ciao ${name} in base a quale dispositivo hai, esegui il comando!*
-  ඬ ${usedPrefix}MENUANDROID
-  ඬ ${usedPrefix}MENUIOS
+*ciao ${name} ecco i comandi principali:*
+  ඬ ${usedPrefix}PROCIONECOMMANDS
   ඬ ${usedPrefix}ESOTONETWORK 🥂
  ⇝*per info contatta il proprietario:*
    https://wa.me/393791009633 `.trim() 
