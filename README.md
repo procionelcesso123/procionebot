@@ -46,7 +46,7 @@ Clicca il pulsante per attivare il bot su Replit:
 ## 1. INSTALLA I PACCHETTI
 Prima di eseguire il repl fai questo:
 * Esegui `npm init -y` nella Shell
-* Esegui `sh-session npm install express ping-monitor` nella Shell
+* Esegui `npm install express ping-monitor` nella Shell
   
 ![](https://user-images.githubusercontent.com/69215413/146991197-2e6ae207-942d-473f-ad1e-6cb78067cef8.png)
   
