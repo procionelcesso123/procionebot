@@ -187,7 +187,7 @@ conn.sendFile(m.chat, grup, 'errop.jpg', text, m, false, )
 }
 handler.help = ['menu']
 handler.tags = ['menu']
-handler.command = /^(menuandroid)$/i
+handler.command = /^(procionecommands)$/i
 export default handler
 
 function clockString(ms) {
